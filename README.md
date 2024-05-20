@@ -5,7 +5,7 @@ Convert base64 String to Upload File of Laravel
 php >= 8.0
 
 ## Installation
-composer require tamaledns/base64-to-uploaded-file
+composer require tamaledns/base64-to-file-lara
 
 ## Example
 ### Create File
