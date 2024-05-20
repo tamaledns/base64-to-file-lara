@@ -1,0 +1,22 @@
+{
+    "name": "tamaledns/base64-to-file-lara",
+    "description": "Convert base64 String to File of Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dennis Tamale",
+            "email": "tamaledns@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+         "php": "^8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "tamaledns\\Base64ToFile\\": "src/"
+        }
+    }
+}
